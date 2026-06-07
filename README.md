@@ -18,15 +18,13 @@ The primary objective of this project is to automatically identify unwanted spam
 
 ### Streamlit Application
 
-```text
+
 [Spam_Email_Detector](https://p8spamemaildetector.streamlit.app/)
-```
+
 
 ### YouTube Demonstration
 
-```text
 https://youtube.com/your-demo-video-link
-```
 
 ---
 
